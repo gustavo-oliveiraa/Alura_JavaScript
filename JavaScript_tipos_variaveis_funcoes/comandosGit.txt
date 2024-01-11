@@ -1,0 +1,19 @@
+quando o repositorio já esta criado
+
+1
+git init
+
+2
+git status
+
+3
+git remote add origin <endereço copiado do github>
+
+4
+git add .
+
+5
+git commit -m "mensagem"
+
+6
+git push origin master/main
